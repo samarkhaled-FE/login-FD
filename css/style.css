@@ -1,0 +1,163 @@
+.top-nav img{
+    width: 100%; height: 30px;
+}
+.navbar{
+    padding:2px 0;
+}
+.form-inline i{
+    border: 1px solid #fff;
+font-size: 25px;border-radius: 50%;padding: 10px;
+}
+
+.logo{
+    width: 50px;position: relative;top: -6px;
+}
+.dark{
+    background-color: black;
+}
+.brand{
+    color: #fccc01;font-weight: bold;
+width: 29%;
+}
+.brand span{
+    font-size: 30px;}
+.brand:hover{color: #fff;}
+.navbar ul li i{color: #fff;}
+.navbar ul li{font-weight: 500;font-size: 20px;
+transition: all 1s;}
+.navbar ul .out:hover{outline: 3px solid #fccc01;}
+.fa-twitter, .fa-facebook, .fa-instagram{
+    transition: all 1s;
+}
+.fa-twitter:hover{color: aqua;}
+.fa-facebook:hover{color: blue;}
+.fa-instagram:hover{color:rgb(132, 42, 42);}
+
+header{background-image: url(../img/banner.jpg);
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;padding-bottom: 200px;padding-top: 200px;}
+header h4{font-weight: bold;}
+header h1{font-size: 60px;font-weight: bold;}
+header h2{font-weight: bold;font-size: 60px;
+color: #cd8383;}
+header .btn{background-color: #fff; padding: 20px 40px;
+border-radius: 40px;font-size: 20px;
+font-weight: 500;}
+
+.quality{background-color: #000000;
+padding-top: 50px;padding-bottom: 50px;}
+.quality h2{color: #fac769;font-size: 45px;}
+.quality p{color: #fff; font-size: 22px;}
+
+.store{background-image: url(../img/sep.png);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center center;
+text-align: center;
+padding: 45px 0;}
+
+.store h1{color: #fff;
+font-size: 60px;
+font-weight: 700;}
+
+.deal{padding: 100px 0;}
+.deal h2{font-size: 45px;}
+.card-body{background-color: #000000;color: #fff;}
+.card-body h5{color: #fccc01;font-size: 25px;
+font-weight: bold;}
+.px-1{border: none;}
+.news{text-align: center;background-color: #000000;
+color: #fccc01;padding-top: 60px;
+padding-bottom: 50px;}
+.news img{
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+.news h2{font-size: 35px;}
+
+.offers{background-image: url(../img/sep.png);
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+padding: 50px 0;}
+.offers h3, h1{color: #fff;}
+.offers h3{font-size: 25px;}
+.offers .btn{background-color: #fff; padding: 20px 40px;
+    border-radius: 40px;font-size: 20px;
+    font-weight: 500;}
+    .archi{background-color: #000000;padding: 30px 0;color: #fff;}
+    .archi img{width: 100%;}
+    .archi h2{font-size: 35px;}
+    .archi p{font-size: 22px;}
+    .contact{background-image: url(../img/contactus.jpg);
+
+background-position: center center;
+background-size: cover;
+background-repeat: no-repeat;    }
+.con-bg{background-color: #435657ac;
+padding: 60px 0;}
+.contact h3{color: #ffbc00;
+font-size: 40px;font-weight: bold;}
+.contact p{color: #fff;font-size: 22px;}
+.contact .form{
+    outline: 1px solid #fccc01;
+    padding:40px 20px;
+    box-shadow:    inset 0 -3em 3em rgba(0, 0, 0, 0),    0px 0px 0px 2px rgb(222, 240, 25),    0.3em 0.3em 1em rgb(222, 240, 25);
+    border-radius:10px ;
+    -webkit-border-radius:10px ;
+    -moz-border-radius:10px ;
+    -ms-border-radius:10px ;
+    -o-border-radius:10px ;
+}
+.form-control{ padding-left: 15px; border-radius: 0;
+     -webkit-border-radius: 0;
+      -moz-border-radius: 0;
+       -ms-border-radius: 0;
+        -o-border-radius: 0;
+    height: 50px;font-weight: 600; }
+.submet{text-align: center;background-color: #ffbc00;
+font-size: 22px;}
+
+.seps{background-image: url(../img/sep.png);
+background-position: center center;
+background-size: cover;
+background-repeat: no-repeat;
+height: 20px;}
+
+footer{background-color: #000000;padding: 50px 0;
+color: #fff;}
+footer .icons{margin-left: 20%;}
+
+footer ul li{list-style: none;
+margin-bottom: 10px;font-size: 20px;font-weight: 600;}
+footer i{ font-size: 24px; 
+    border: 1px solid #fff;
+    padding: 15px;
+    border-radius:50% ;
+     -webkit-border-radius:50% ;
+      -moz-border-radius:50% ; 
+      -ms-border-radius:50% ;
+       -o-border-radius:50% ; }
+footer .right-side .form-control{
+    width: 80%;
+    margin-left: 20%;
+    margin-top: 40px;
+    background-color: #000000;
+    border: 0 ;
+    border-bottom: 2px solid #fff;
+    padding-left: 0;
+    font-size: 20px;
+    color: #fff;
+
+}
+
+footer .subscribe{ margin-left: 19%;
+     margin-top: 20px;
+      padding: 12px 40px; 
+      font-weight: 600;
+       border-radius: 40px;
+        border: 0;
+        font-size: 22px;
+}
